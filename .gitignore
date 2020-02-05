@@ -1,0 +1,8 @@
+### IDE Related ###
+.idea
+.DS_Store
+
+### Python Related ###
+*.pyc
+
+venv/
