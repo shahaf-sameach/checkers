@@ -1,4 +1,4 @@
-# Checkers game
+# Checkers Sim
 
 Basic implementation of checkers simulation based on input file (moves)
 
